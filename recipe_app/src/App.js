@@ -21,6 +21,7 @@ export default function App() {
     const onSubmit=(e)=>{
       e.preventDefault();
       getRecipis();
+      
     }
 
   return (
